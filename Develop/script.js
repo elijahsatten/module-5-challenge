@@ -53,6 +53,15 @@ $(function () {
   // the values of the corresponding textarea elements. HINT: How can the id
   // attribute of each time-block be used to do this?
 
+  timeBlock.each(function() {
+    var ID = $(this).attr("id");
+    var textContent = localStorage.getItem(ID);
+    var textArea = $(this).children("textarea");
+    if (textContent) {
+      textArea.text(textContent);
+    }
+  });
+
   // TODO: Add code to display the current date in the header of the page.
 
 });
