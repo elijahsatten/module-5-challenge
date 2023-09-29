@@ -2,7 +2,7 @@
 
 ## Description
 
-Module 5 Challenge Project
+Module 5 Challenge Project - Work Day Scheduler
 
 ## Installation
 
