@@ -10,7 +10,7 @@ N/A
 
 ## Usage
 
-Deployment site: https://elijahsatten.github.io/module-5-challenge/
+Deployment site: https://elijahsatten.github.io/work-day-scheduler/
 
 ![Screenshot](assets/images/screenshot.png)
 
